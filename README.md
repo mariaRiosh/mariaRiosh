@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
 </p>
----
+
 
 <!--### 🚀 Featured projects
 > (Fija/pinea estos repos en tu perfil para que se vean arriba)
@@ -95,7 +95,7 @@
 - Data preprocessing pipelines for ML experiments
 
 ----->
-
+---
 ### 🤝 Let’s connect
 - 📫 Email: **mavi.riosh@gmail.com**
 - 💼 LinkedIn: **www.linkedin.com/in/maviriosh**
